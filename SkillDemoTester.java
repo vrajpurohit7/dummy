@@ -5,6 +5,6 @@ public class SkillDemoTester {
     
     @Test
     public void average() {
-        assertEquals(1, SkillDemo.avg(1,1));
+        assertEquals(2, SkillDemo.avg(1,1));
     }
 }
